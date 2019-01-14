@@ -23,9 +23,9 @@ public class Tarea2Bimestre {
         int b = 1;
         int c = 0;
         int i;
-        if (n > 20)//limitar el número de impresiones por presentación
+        if (n > 30)//limitar el número de impresiones por presentación
         {
-            n = 20;
+            n = 30;
         }
 
         if (n < 3) {
